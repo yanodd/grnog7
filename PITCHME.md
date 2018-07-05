@@ -1,5 +1,6 @@
 
 ---
+
 # State of IPv6-only in 2018
 yanodd@otenet.gr
 
@@ -7,6 +8,8 @@ yanodd@otenet.gr
 
 ![Flux Explained](http://138.otenet.gr/trans-part.png)
 
+
+---
 
 ### What are Operators Deploying
 
@@ -17,6 +20,7 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 ![IPv6 Transition Mechanisms used](http://138.otenet.gr/trans-part.png)
 
 ---
+
 ### Some Statistics
 
 - DS-Lite:       11
@@ -26,6 +30,7 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 - 6rd:           6
 
 ---
+
 ### Reluctancy to deploy IPv4aaS
 
 - NAT444, plenty to go by
@@ -38,6 +43,7 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 - IETF possibly published too many standards
 
 ---
+
 ### IETF to the rescue, maybe
 
 - rfc8026 (Unified IPv4-in-IPv6 Softwire CPE)
