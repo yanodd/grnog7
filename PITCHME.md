@@ -38,3 +38,7 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 - draft-ietf-v6ops-transition-ipv4aas
 - draft-ietf-softwire-lightweight-4over6-deployment
 - draft-ietf-v6ops-nat64-deployment
+
+---
+### BLA
+![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
