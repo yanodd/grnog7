@@ -8,6 +8,7 @@ yanodd@otenet.gr
 <span style="font-size:0.4em">
 https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcVApc/edit?usp=sharing
 </span>
+
 ![IPv6 Transition Mechanisms used](http://138.otenet.gr/trans-part.png)
 
 ---
