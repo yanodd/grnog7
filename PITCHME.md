@@ -4,7 +4,9 @@
 yanodd@otenet.gr
 
 ---
+
 ### What are Operators Deploying
+
 <span style="font-size:0.4em">
 https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcVApc/edit?usp=sharing
 </span>
@@ -39,8 +41,4 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 - draft-ietf-v6ops-transition-ipv4aas
 - draft-ietf-softwire-lightweight-4over6-deployment
 - draft-ietf-v6ops-nat64-deployment
-
----
-### BLA
-![Flux Explained](https://github.com/yanodd/grnog7/blob/master/trans-part.png)
 
