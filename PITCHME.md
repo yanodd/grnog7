@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 
 ---
 
-### Reluctancy to deploy IPv4aaS
+### Reluctance to deploy IPv4aaS
 
 - NAT444, plenty to go by
 - IPv4 address transfers
