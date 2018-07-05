@@ -28,13 +28,13 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 - Operators waiting for maturity (chicken & egg)
 - no vendor push either
 - Operators will deploy what's easiest and safest to deploy (see 464XLAT)
-- Apparently, modern transition mechs are not Gods Gifts
+- modern transition mechs are not Gods Gifts
 - IETF possibly published too many standards
 
 ---
 ### IETF to the rescue, maybe
 
+- rfc8026 (Unified IPv4-in-IPv6 Softwire CPE)
 - draft-ietf-v6ops-transition-ipv4aas
 - draft-ietf-softwire-lightweight-4over6-deployment
-- rfc8026 (Unified IPv4-in-IPv6 Softwire CPE)
 - draft-ietf-v6ops-nat64-deployment
