@@ -1,6 +1,4 @@
 
----
-
 # State of IPv6-only in 2018
 Yannis Nikolopoulos <yanodd@otenet.gr>
 
@@ -11,6 +9,8 @@ Yannis Nikolopoulos <yanodd@otenet.gr>
 <span style="font-size:0.4em">
 https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcVApc/edit?usp=sharing
 </span>
+
+Crowd-sourced list of transition technologies, various carriers have deployed
 
 ---
 
