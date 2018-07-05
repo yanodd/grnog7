@@ -42,3 +42,8 @@ https://docs.google.com/spreadsheets/d/1ksOoWOaRdRyjZnjLSikHf4O5L1OUTNOO_7NK9vcV
 ---
 ### BLA
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+---
+### BLA2
+![Flux Explained](http://138.otenet.gr/flux-simple-f8-diagram-explained-1300w.png)
+
