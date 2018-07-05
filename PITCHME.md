@@ -6,11 +6,6 @@ yanodd@otenet.gr
 
 ---
 
-![Flux Explained](http://138.otenet.gr/trans-part.png)
-
-
----
-
 ### What are Operators Deploying
 
 <span style="font-size:0.4em">
